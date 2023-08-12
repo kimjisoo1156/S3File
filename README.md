@@ -1,14 +1,6 @@
 # S3File 업로드, 수정, 삭제
 <img src = "https://github.com/kimjisoo1156/S3File/assets/121778107/2cd49aab-de56-449e-88c8-315d34b7b9ed" width="600" height="600"/>
 
-## 참고 사이트
-
-
-https://velog.io/@rainbowweb/AWS-스프링부트-S3
-
-
-https://victorydntmd.tistory.com/336
-
 
 ## 프로젝트 설명
 
@@ -38,3 +30,10 @@ Aws s3 bucket에 이미지 업로드, 수정, 삭제 기능 구현을 해보았�
 
 url주소 또한 DB에 저장되도록 구현하였습니다.
 
+## 참고 사이트
+
+
+https://velog.io/@rainbowweb/AWS-스프링부트-S3
+
+
+https://victorydntmd.tistory.com/336
