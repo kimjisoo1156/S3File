@@ -38,13 +38,11 @@ https://velog.io/@rainbowweb/AWS-스프링부트-S3
 
 https://victorydntmd.tistory.com/336
 
-# SpringBoot
+# stack
 <img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=mysql&logoColor=white">
 
-# MySQL
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-# Github
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
