@@ -30,7 +30,7 @@ Aws s3 bucket에 이미지 업로드, 수정, 삭제 기능 구현을 해보았�
 
 url주소 또한 DB에 저장되도록 구현하였습니다.
 
-## 화면 디자인은 아래 사이트를 참고하였습니다
+## 화면 디자인 참고 사이트
 https://victorydntmd.tistory.com/336
 
 ## 💻 My Stack
