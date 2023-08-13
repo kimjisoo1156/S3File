@@ -33,7 +33,9 @@ s3 bucket에 올라간 url주소 또한 DB에 저장되도록 구현하였습니
 ## 참고 사이트
 https://victorydntmd.tistory.com/336 (화면 디자인 참고)
 
-https://velog.io/@rainbowweb/AWS-스프링부트-S3 (S3Service에서 content type지정 참고)
+https://velog.io/@rainbowweb/AWS-스프링부트-S3 
+
+(S3Service에서 content type지정 참고)
 
 ## 💻 My Stack
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=html5&logoColor=white">
